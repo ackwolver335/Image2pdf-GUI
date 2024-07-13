@@ -14,6 +14,12 @@ This is a simple project in which we have used the [Tkinter](https://docs.python
 - *Scope of Project* - Small Scale.
 - *Specified Operating System* - **[Windows](https://www.microsoft.com/en-in/windows?r=1)**
 
+## ⚡️ Modules/Libraries Used
+
+- *Tkinter* - A General Module or Library which is mainly used for designing this GUI Application.
+- *filedialog* - A Module from Tkinter Framework used in order to provide the file choosing facilities.
+- *img2pdf* - Another Module used that plays conversion of images into a proper pdf files.
+
 ## 📫 How to Reach Me
 
 - **Email** - abhaych335@gmail.com
