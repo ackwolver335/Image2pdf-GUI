@@ -20,6 +20,14 @@ This is a simple project in which we have used the [Tkinter](https://docs.python
 - *filedialog* - A Module from Tkinter Framework used in order to provide the file choosing facilities.
 - *img2pdf* - Another Module used that plays conversion of images into a proper pdf files.
 
+### 🛠 General Template for Conversion into .exe file
+
+- For conversion of this python file into a proper .exe file also before this you need to install the required module *'pyinstaller'* for conversion of this python file into an executable file.
+
+```bash
+pyinstaller filename.py --onefile --w
+```
+
 ## 📫 How to Reach Me
 
 - **Email** - abhaych335@gmail.com
