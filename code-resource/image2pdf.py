@@ -19,7 +19,7 @@ lb1.pack(padx = 2,pady = 10)
 
 def select():
     global files1                                                        
-    files1 = fd.askopenfilenames(initialdir = '/',title = 'Select files')
+    files1 = fd.askopenfilenames()
 
 def select_location():
     global file_location
@@ -29,8 +29,8 @@ def move_file():
     if e1.get() == '' or file_location == '':
         mg.showwarning('Application Error','Either the file is not renamed or Location is not selected !')
     else:
-        new_location = file_location + "\\" + e1.get() + ".pdf"
-        current_dir = os.getcwd()  + "\\" + e1.get() + ".pdf"
+        new_location = file_location + "/" + e1.get() + ".pdf"
+        current_dir = os.getcwd()  + "/" + e1.get() + ".pdf"
         shutil.move(current_dir,new_location)
 
 btn1 = tk.Button(w1,text = 'Select Image/Images',command = select,bg = "#F9D342",fg = "#292826")

@@ -67,7 +67,7 @@ lb1.pack(padx = 2,pady = 10)
 
 def select():
     global files1                                                               # Specifying File Names variable to be Global
-    files1 = fd.askopenfilenames(initialdir = '/',title = 'Select files')
+    files1 = fd.askopenfilenames()
 
 # defining a function or method for selecting file's location
 def select_location():
