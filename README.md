@@ -28,6 +28,10 @@ This is a simple project in which we have used the [Tkinter](https://docs.python
 pyinstaller filename.py --onefile --w
 ```
 
+### Proper Setup file 
+
+Due to an issue over to stopped working of my application I have provided some changed regarding the proper setup file, so that the user may not get any kind of problem regarding installation of my application. And the installation file is been given together with the source code.
+
 ## 📫 How to Reach Me
 
 - **Email** - abhaych335@gmail.com
