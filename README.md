@@ -19,6 +19,9 @@ This is a simple project in which we have used the [Tkinter](https://docs.python
 - *Tkinter* - A General Module or Library which is mainly used for designing this GUI Application.
 - *filedialog* - A Module from Tkinter Framework used in order to provide the file choosing facilities.
 - *img2pdf* - Another Module used that plays conversion of images into a proper pdf files.
+- *Tkinter.messagebox* - It is used for providing messagebox alert or warning regarding user unusual behaviour.
+- *os* - It is used for getting the current directory location for replacing the file.
+- *shutil* - It is used for getting the file moved from particular location to another location.
 
 ### 🛠 General Template for Conversion into .exe file
 
