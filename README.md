@@ -28,12 +28,16 @@ This is a simple project in which we have used the [Tkinter](https://docs.python
 - For conversion of this python file into a proper .exe file also before this you need to install the required module *'pyinstaller'* for conversion of this python file into an executable file.
 
 ```bash
-pyinstaller filename.py --onefile --w
+pyinstaller filename.py --onefile -w
 ```
 
 ### Proper Setup file 
 
 Due to an issue over to stopped working of my application I have provided some changed regarding the proper setup file, so that the user may not get any kind of problem regarding installation of my application. And the installation file is been given together with the source code.
+
+### Roadmap for Learning
+
+In this overview explained with the help of readme I have also provided the Roadmap for learning how we can create projects using tkinter Framework regarding GUI Desktop Application and its Building Resources. And the roadmap will be surely available over to Wiki of this project. And for learning framework the repository link is available in learning repository above.
 
 ## 📫 How to Reach Me
 
